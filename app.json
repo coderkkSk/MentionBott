@@ -1,7 +1,7 @@
 {
-    "name": "Asad Alexa",
-    "description": "Asad Alexa Is Telegram Advanced Bot To Mention All Members In Group.",
-    "logo": "https://telegra.ph/file/cb76d7f5dae14ec1e11c7.jpg",
+    "name": "Saitama",
+    "description": "Saitama Is Telegram Advanced Bot To Mention All Members In Group.",
+    "logo": "https://te.legra.ph/file/498f689be73c19c4c2219.jpg",
     "env": {
         "TOKEN": {
             "description": "Enter bot token."
